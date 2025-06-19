@@ -1,0 +1,26 @@
+# Eclipse-specific
+*.launch
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.class
+.settings/
+.project
+.classpath
+
+# Maven
+/target/
+
+# IntelliJ or VS Code (if also using)
+.idea/
+.vscode/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Playwright Reports/Output (if applicable)
+test-output/
